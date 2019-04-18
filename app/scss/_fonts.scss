@@ -1,0 +1,4 @@
+@import "_mixins/font-face";
+
+@include font-face("PFHighwaySansPro", "../fonts/PFHighwaySansPro/PFHighwaySansPro");
+@include font-face("pragmatica", "../fonts/pragmatica/pragmatica");
